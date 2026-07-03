@@ -1,1 +1,14 @@
 Git command
+
+
+Adding new information to test file:
+Key Point:
+
+Push = send local changes → GitHub.
+cmd: git push origin main
+
+Pull = bring remote changes (changed in github) → local VS Code.
+cmd: git pull origin main
+
+If you add/edit files directly on GitHub, you must pull to see them locally.
+If you add/edit files in VS Code, you must push to see them on GitHub.
