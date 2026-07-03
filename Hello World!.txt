@@ -3,3 +3,7 @@ Test git concepts
 
 
 updating txt file by deleting a line
+First Change!
+shruthi
+Hello everyone
+Power BI Dashboard
